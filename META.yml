@@ -1,0 +1,33 @@
+---
+abstract: 'DSL for colors and other terminal chrome'
+author:
+  - 'Olivier Mengué <dolmen@cpan.org>'
+build_requires:
+  Test::Is: '20140823'
+  Test::More: '0.96'
+  Test::Synopsis: '0.10'
+configure_requires:
+  Module::Build::Tiny: '0.037'
+dynamic_config: 0
+generated_by: 'Dist::Milla version v1.0.5, Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.140640'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: Term-Chrome
+no_index:
+  directory:
+    - t
+    - xt
+    - inc
+    - share
+    - eg
+    - examples
+requires:
+  Exporter: '5.57'
+  perl: '5.008005'
+resources:
+  bugtracker: https://github.com/dolmen/p5-Term-Chrome/issues
+  homepage: https://github.com/dolmen/p5-Term-Chrome
+  repository: https://github.com/dolmen/p5-Term-Chrome.git
+version: '1.000'
