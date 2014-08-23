@@ -30,4 +30,4 @@ resources:
   bugtracker: https://github.com/dolmen/p5-Term-Chrome/issues
   homepage: https://github.com/dolmen/p5-Term-Chrome
   repository: https://github.com/dolmen/p5-Term-Chrome.git
-version: '1.000'
+version: '1.001'
